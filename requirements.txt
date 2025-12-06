@@ -1,6 +1,8 @@
 streamlit==1.36.0
 pandas==2.2.2
 sqlalchemy==2.0.30
-Pillow==11.0.0
+Pillow>=7.1.0,<11
 python-dateutil>=2.8.2
+
+
 
